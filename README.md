@@ -10,5 +10,5 @@ sudo apt update
 sudo apt install dvkbuntu
 ```
 
-## pour discuter avec nous, allez sur le discord
+## pour discuter avec nous, rejoignez nous sur le discord
 https://discord.gg/FtsNjjC
