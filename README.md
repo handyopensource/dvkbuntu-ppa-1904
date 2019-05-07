@@ -2,7 +2,7 @@
 
 **ppa:dvkbuntu/dvkbuntu-ppa**
 
-## pour ajouter le ppa sur kubuntu 19.04 exécuter les commande suivant :
+## pour ajouter le ppa sur kubuntu 19.04 exécuter les commandes suivantes :
 
 ```
 sudo add-apt-repository ppa:dvkbuntu/dvkbuntu-ppa
