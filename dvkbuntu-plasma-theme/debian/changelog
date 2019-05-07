@@ -1,0 +1,11 @@
+dvkbuntu-plasma-theme (2.11-1) disco; urgency=medium
+
+  * Changement Logo Menu
+
+ -- Paul WOISARD <paulwoisard@gmail.com>  Sun, 05 May 2019 21:01:01 +0200
+
+dvkbuntu-plasma-theme (2.10-1) disco; urgency=medium
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Paul WOISARD <paulwoisard@gmail.com>  Mon, 22 Apr 2019 14:05:26 +0200
