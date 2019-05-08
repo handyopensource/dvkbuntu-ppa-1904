@@ -8,6 +8,6 @@ Homepage: https://discord.gg/FtsNjjC
 
 Package: dvkbuntu
 Architecture: any
-Depends: dvkbuntu-eclipse, dvkbuntu-flamme, dvkbuntu-logo, dvkbuntu-plasma-theme, dvkbuntu-reglage-firefox, dvkbuntu-sddm-theme, dvkbuntu-kinfocenter
+Depends: dvkbuntu-eclipse, dvkbuntu-flamme, dvkbuntu-logo, dvkbuntu-plasma-theme, dvkbuntu-reglage-firefox, dvkbuntu-sddm-theme, dvkbuntu-kinfocenter, dvkbuntu-etoiles-filantes, dvkbuntu-flammes-dorees, dvkbuntu-fumee-abstraite, dvkbuntu-regard, dvkbuntu-rose-rosee, dvkbuntu-voie-lactee, dvkbuntu-vortex
 Description: DVKBUNTU pour installer tous les paquets DVKBUNTU
  <insert long description, indented with spaces>
