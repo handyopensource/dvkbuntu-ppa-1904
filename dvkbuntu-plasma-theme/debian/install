@@ -8,6 +8,10 @@ look-and-feel/fullscreenpreview.jpg usr/share/plasma/look-and-feel/DVKBUNTU/cont
 look-and-feel/preview.png usr/share/plasma/look-and-feel/DVKBUNTU/contents/previews/
 look-and-feel/defaults usr/share/plasma/look-and-feel/DVKBUNTU/contents/
 look-and-feel/metadata.json usr/share/plasma/look-and-feel/DVKBUNTU/
+look-and-feel/splash.png usr/share/plasma/look-and-feel/DVKBUNTU/contents/previews
+look-and-feel/Splash.qml usr/share/plasma/look-and-feel/DVKBUNTU/contents/splash
+look-and-feel/start-here-kde-animation.svg usr/share/plasma/look-and-feel/DVKBUNTU/contents/splash/images/
+look-and-feel/start-here-kde-logo.svg usr/share/plasma/look-and-feel/DVKBUNTU/contents/splash/images/
 
 layout-templates/layout.js usr/share/plasma/layout-templates/DVKBUNTU/contents/
 layout-templates/metadata.desktop usr/share/plasma/layout-templates/DVKBUNTU/

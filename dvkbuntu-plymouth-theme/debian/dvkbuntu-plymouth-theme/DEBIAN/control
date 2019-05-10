@@ -1,0 +1,10 @@
+Package: dvkbuntu-plymouth-theme
+Version: 2.0-1
+Architecture: amd64
+Maintainer: Paul WOISARD <paulwoisard@gmail.com>
+Installed-Size: 83
+Section: misc
+Priority: important
+Homepage: https://discord.gg/FtsNjjC
+Description: DVKBUNTU Theme Plymouth.
+ <insert long description, indented with spaces>

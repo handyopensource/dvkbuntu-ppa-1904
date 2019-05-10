@@ -1,0 +1,13 @@
+DVKbuntu-logo.grub usr/share/plymouth/themes/DVKbuntu-logo/
+DVKbuntu-logo.plymouth usr/share/plymouth/themes/DVKbuntu-logo/
+DVKbuntu-logo.script usr/share/plymouth/themes/DVKbuntu-logo/
+README usr/share/plymouth/themes/DVKbuntu-logo/
+dot.png usr/share/plymouth/themes/DVKbuntu-logo/images/
+logo-glow.png usr/share/plymouth/themes/DVKbuntu-logo/images/
+logo.png usr/share/plymouth/themes/DVKbuntu-logo/images/
+source.svgz usr/share/plymouth/themes/DVKbuntu-logo/images/
+text-input.png usr/share/plymouth/themes/DVKbuntu-logo/images/
+16bit/dot.png usr/share/plymouth/themes/DVKbuntu-logo/images/16bit/
+16bit/logo.png usr/share/plymouth/themes/DVKbuntu-logo/images/16bit/
+16bit/progress-rect.png usr/share/plymouth/themes/DVKbuntu-logo/images/16bit/
+16bit/text-input.png usr/share/plymouth/themes/DVKbuntu-logo/images/16bit/
