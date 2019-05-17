@@ -1,0 +1,15 @@
+[FileDialogSize]
+Height 1080=480
+Width 1920=724
+
+[General]
+lastSaveAsFile=file:///home/paul/Bureau/Nouveau dossier/preview/preview.png
+lastSaveFile=file:///home/paul/Bureau/Nouveau dossier/preview/preview.png
+
+[GuiConfig]
+lastUsedSaveMode=0
+window-position=20,0
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/Bureau/Nouveau dossier/preview/preview.png,file:$HOME/Bureau/Nouveau dossier/preview/preview.png
+Recent URLs[$e]=file:$HOME/Bureau/Nouveau dossier/preview/

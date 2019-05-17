@@ -1,0 +1,5 @@
+dvkbuntu-iso (2.0-1) disco; urgency=medium
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Paul WOISARD <paulwoisard@gmail.com>  Mon, 22 Apr 2019 14:47:39 +0200

@@ -1,0 +1,63 @@
+kde_ui.py usr/lib/ubiquity/ubiquity/frontend/
+
+Breadcrumb.py usr/lib/ubiquity/ubiquity/frontend/kde_components/
+__init__.py usr/lib/ubiquity/ubiquity/frontend/kde_components/
+Keyboard.py usr/lib/ubiquity/ubiquity/frontend/kde_components/
+nmwidgets.py usr/lib/ubiquity/ubiquity/frontend/kde_components/
+PartAuto.py usr/lib/ubiquity/ubiquity/frontend/kde_components
+PartitionBar.py usr/lib/ubiquity/ubiquity/frontend/kde_components/
+PartitionModel.py usr/lib/ubiquity/ubiquity/frontend/kde_components/
+PartMan.py usr/lib/ubiquity/ubiquity/frontend/kde_components/
+ProgressDialog.py usr/lib/ubiquity/ubiquity/frontend/kde_components/
+qssutils.py usr/lib/ubiquity/ubiquity/frontend/kde_components/
+Spinner.py usr/lib/ubiquity/ubiquity/frontend/kde_components/
+Timezone.py usr/lib/ubiquity/ubiquity/frontend/kde_components/
+
+partauto.py usr/lib/ubiquity/ubiquity/frontend/kde_components/testing/
+partitionbar.py usr/lib/ubiquity/ubiquity/frontend/kde_components/testing/
+partman.py usr/lib/ubiquity/ubiquity/frontend/kde_components/testing/
+timezonemap.py usr/lib/ubiquity/ubiquity/frontend/kde_components/testing/
+
+ubiquity-kdeui.desktop usr/share/applications/kde4/
+
+changelog.gz usr/share/doc/ubiquity-frontend-kde/
+copyright usr/share/doc/ubiquity-frontend-kde/
+
+128x128/ubiquity-kde.svg usr/share/icons/hicolor/128x128/apps/
+16x16/ubiquity-kde.svg usr/share/icons/hicolor/16x16/apps/
+22x22/ubiquity-kde.svg usr/share/icons/hicolor/22x22/apps/
+32x32/ubiquity-kde.svg usr/share/icons/hicolor/32x32/apps/
+48x48/ubiquity-kde.svg usr/share/icons/hicolor/48x48/apps/
+64x64/ubiquity-kde.svg usr/share/icons/hicolor/64x64/apps/
+
+ubiquity-frontend-kde.rtupdate usr/share/python3/runtime.d/
+
+app.ui usr/share/ubiquity/qt/
+breadcrumb_current.qss usr/share/ubiquity/qt/
+crashdialog.ui usr/share/ubiquity/qt/
+partition_create_dialog.ui usr/share/ubiquity/qt/
+partition_edit_dialog.ui usr/share/ubiquity/qt/
+stepIntro.ui usr/share/ubiquity/qt/
+stepKeyboardConf.ui usr/share/ubiquity/qt/
+stepLanguage.ui usr/share/ubiquity/qt/
+stepLocation.ui usr/share/ubiquity/qt/
+stepPartAuto.ui usr/share/ubiquity/qt/
+stepPartMan.ui usr/share/ubiquity/qt/
+stepPrepare.ui usr/share/ubiquity/qt/
+stepUserSetup.ui usr/share/ubiquity/qt/
+stepWireless.ui usr/share/ubiquity/qt/
+style.qss usr/share/ubiquity/qt/
+
+branding.svgz usr/share/ubiquity/qt/images/
+breadcrumb_ltr.png usr/share/ubiquity/qt/images/
+breadcrumb_rtl.png usr/share/ubiquity/qt/images/
+install.png usr/share/ubiquity/qt/images/
+main.png usr/share/ubiquity/qt/images/
+sidebar.png /usr/share/ubiquity/qt/images/
+sidebar_shadow_ltr.png usr/share/ubiquity/qt/images/
+sidebar_shadow_rtl.png usr/share/ubiquity/qt/images/
+try.png usr/share/ubiquity/qt/images/
+
+README usr/share/ubiquity/qt/share/
+
+kwinrc usr/share/ubiquity/qt/share/config/
