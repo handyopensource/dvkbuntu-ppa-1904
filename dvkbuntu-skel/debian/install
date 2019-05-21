@@ -66,5 +66,6 @@ kwin_109db1b86c000155672764000000010700001_1557871261_245658 etc/skel/.config/se
 Breeze.colors etc/skel/.kde/share/apps/color-schemes/
 BreezeDark.colors etc/skel/.kde/share/apps/color-schemes/
 ZionReversed.colors etc/skel/.kde/share/apps/color-schemes/
+DVKBuntu.colors etc/skel/.kde/share/apps/color-schemes/
 
 kde/kdeglobals etc/skel/.kde/share/config/

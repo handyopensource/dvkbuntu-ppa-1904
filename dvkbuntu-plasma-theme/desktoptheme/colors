@@ -105,8 +105,8 @@ ForegroundPositive=17,209,22
 ForegroundVisited=61,174,230
 
 [General]
-ColorScheme=Zion (Reversed)
-Name=Zion (Reversed)
+ColorScheme=DVKBuntu
+Name=DVKBuntu
 shadeSortColumn=true
 fixed=Hack,11,-1,5,50,0,0,0,0,0,Regular
 font=Noto Sans,12,-1,5,50,0,0,0,0,0,Regular

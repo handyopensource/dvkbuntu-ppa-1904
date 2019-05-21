@@ -61,3 +61,6 @@ try.png usr/share/ubiquity/qt/images/
 README usr/share/ubiquity/qt/share/
 
 kwinrc usr/share/ubiquity/qt/share/config/
+kcm-about-distrorc usr/share/ubiquity/qt/share/config/
+kdeglobals usr/share/ubiquity/qt/share/config/
+plasmarc usr/share/ubiquity/qt/share/config/

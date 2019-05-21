@@ -112,9 +112,9 @@ Size=256
 Size=256
 
 [General]
-ColorScheme=ZionReversed
-Name[fr_FR]=Breeze
-Name=Zion (Reversed)
+ColorScheme=DVKBuntu
+Name[fr_FR]=DVKBuntu
+Name=DVKBuntu.colors
 XftAntialias=true
 XftHintStyle=
 XftSubPixel=none
