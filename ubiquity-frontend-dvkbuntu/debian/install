@@ -23,12 +23,24 @@ ubiquity-kdeui.desktop usr/share/applications/kde4/
 changelog.gz usr/share/doc/ubiquity-frontend-kde/
 copyright usr/share/doc/ubiquity-frontend-kde/
 
-128x128/ubiquity-kde.svg usr/share/icons/hicolor/128x128/apps/
-16x16/ubiquity-kde.svg usr/share/icons/hicolor/16x16/apps/
-22x22/ubiquity-kde.svg usr/share/icons/hicolor/22x22/apps/
-32x32/ubiquity-kde.svg usr/share/icons/hicolor/32x32/apps/
-48x48/ubiquity-kde.svg usr/share/icons/hicolor/48x48/apps/
-64x64/ubiquity-kde.svg usr/share/icons/hicolor/64x64/apps/
+hicolor/128x128/ubiquity-kde.svg usr/share/icons/hicolor/128x128/apps/
+hicolor/16x16/ubiquity-kde.svg usr/share/icons/hicolor/16x16/apps/
+hicolor/22x22/ubiquity-kde.svg usr/share/icons/hicolor/22x22/apps/
+hicolor/32x32/ubiquity-kde.svg usr/share/icons/hicolor/32x32/apps/
+hicolor/48x48/ubiquity-kde.svg usr/share/icons/hicolor/48x48/apps/
+hicolor/64x64/ubiquity-kde.svg usr/share/icons/hicolor/64x64/apps/
+breeze/128x128/ubiquity-kde.svg usr/share/icons/breeze/128x128/apps/
+breeze/16x16/ubiquity-kde.svg usr/share/icons/breeze/16x16/apps/
+breeze/22x22/ubiquity-kde.svg usr/share/icons/breeze/22x22/apps/
+breeze/32x32/ubiquity-kde.svg usr/share/icons/breeze/32x32/apps/
+breeze/48x48/ubiquity-kde.svg usr/share/icons/breeze/48x48/apps/
+breeze/64x64/ubiquity-kde.svg usr/share/icons/breeze/64x64/apps/
+breeze-dark/128x128/ubiquity-kde.svg usr/share/icons/breeze-dark/128x128/apps/
+breeze-dark/16x16/ubiquity-kde.svg usr/share/icons/breeze-dark/16x16/apps/
+breeze-dark/22x22/ubiquity-kde.svg usr/share/icons/breeze-dark/22x22/apps/
+breeze-dark/32x32/ubiquity-kde.svg usr/share/icons/breeze-dark/32x32/apps/
+breeze-dark/48x48/ubiquity-kde.svg usr/share/icons/breeze-dark/48x48/apps/
+breeze-dark/64x64/ubiquity-kde.svg usr/share/icons/breeze-dark/64x64/apps/
 
 ubiquity-frontend-kde.rtupdate usr/share/python3/runtime.d/
 
