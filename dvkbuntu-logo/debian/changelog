@@ -1,0 +1,5 @@
+dvkbuntu-logo (2.1-2) disco; urgency=medium
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Steeve Le Gal <toulibre@gmail.com>  Mon, 11 May 2019 01:41:23 +0200
