@@ -62,7 +62,7 @@ footer{
 	text-align: center;
 	font-family: verdana;
 	position: center;
-	color: ##FFFFFF;
+	color: #FFFFFF;
 	font-size: 32px;
 	text-decoration: none;
 	padding: 12px;
@@ -144,6 +144,20 @@ p.z:hover{
 	border: 15px solid #FFFFFF;
 	border-radius:15px 15px 15px 15px;
 	width: 32%;
+	background-color: #FFFFFF;
+}
+em.z{
+	transition: 1s all;
+	border: 12px solid #000000;
+	border-radius:15px 15px 15px 15px;
+	width: 15%;
+	background-color: #040404;
+}
+em.z:hover{
+	transition: 1s all;
+	border: 15px solid #FFFFFF;
+	border-radius:15px 15px 15px 15px;
+	width: 20%;
 	background-color: #FFFFFF;
 }
 p.y{
