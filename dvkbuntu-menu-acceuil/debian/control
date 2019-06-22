@@ -1,0 +1,13 @@
+Source: dvkbuntu-menu-acceuil
+Section: misc
+Priority: important
+Maintainer: Paul WOISARD <paulwoisard@gmail.com>
+Build-Depends: debhelper (>= 11), libqt5widgets5, libqt5gui5, libqt5core5a, libstdc++6, libc6, lib64gcc1, libc6-i386
+Standards-Version: 4.1.3
+Homepage: https://discord.gg/FtsNjjC
+
+Package: dvkbuntu-menu-acceuil
+Architecture: any
+Depends: gnome-orca, kmag
+Description: DVKBUNTU Menu d'Acceuil
+ <insert long description, indented with spaces>
