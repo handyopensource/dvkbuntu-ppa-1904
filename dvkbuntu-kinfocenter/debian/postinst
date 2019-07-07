@@ -243,7 +243,7 @@ cat << FIN > "/etc/xdg/kcm-about-distrorc"
 LogoPath=/usr/share/kubuntu-default-settings/Icone.png
 Website=https://discord.gg/FtsNjjC
 Name=DVKBUNTU
-Variant=Développeurs : @PaulluxWaffle - @Jacky - @Yo_man - @｟Ad͢͢͢n｠- @Toulibre
+Variant=Développeurs : @PaulluxWaffle - @Jacky - @Yo_man - @｟Ad͢͢͢n｠- @Toulibre - @chris2228
 FIN
 
 cp /etc/skel/face /etc/skel/.face
