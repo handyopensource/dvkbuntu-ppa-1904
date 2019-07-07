@@ -241,7 +241,7 @@ FIN
 cat << FIN > "/etc/xdg/kcm-about-distrorc"
 [General]
 LogoPath=/usr/share/kubuntu-default-settings/Icone.png
-Website=https://discord.gg/FtsNjjC
+Website=https://www.dvkbuntu.org/
 Name=DVKBUNTU
 Variant=Développeurs : @PaulluxWaffle - @Jacky - @Yo_man - @｟Ad͢͢͢n｠- @Toulibre - @chris2228
 FIN
