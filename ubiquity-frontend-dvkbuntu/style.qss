@@ -30,12 +30,12 @@ QFrame[isBreadcrumb="true"],
 #distro_name_label,
 #distro_release_label {
 	color: #000;
-	font-size: 12pt;
+	font-size: 16pt;
 }
 
 #install_process_label {
 	color: #fff;
-	font-size: 8pt;
+	font-size: 16pt;
 }
 
 /*- Sidebar steps ---------------------------*/
@@ -52,7 +52,7 @@ QFrame[isBreadcrumb="true"],
 #password_error_reason,
 #hostname_error_reason
 {
-    font-size: 8pt;
+    font-size: 16pt;
     color: #ff5555;
 }
 
@@ -68,7 +68,7 @@ QFrame[isBreadcrumb="true"],
 #reading_heading_label
 {
 	color: #3DAEE9;
-	font-size: 10pt;
+	font-size: 16pt;
 	qproperty-alignment: AlignCenter;
 }
 
@@ -76,7 +76,7 @@ QFrame[isBreadcrumb="true"],
 #try_ubuntu,
 #install_ubuntu
 {
-	font-size: 12pt;
+	font-size: 16pt;
 	font-weight: bold;
 }
 

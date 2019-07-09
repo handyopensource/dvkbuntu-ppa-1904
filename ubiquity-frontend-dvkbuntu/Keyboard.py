@@ -60,8 +60,8 @@ class Keyboard(QWidget):
         ()]
     }
 
-    lowerFont = QFont("Helvetica", 10, QFont.DemiBold)
-    upperFont = QFont("Helvetica", 8)
+    lowerFont = QFont("Helvetica", 30, QFont.DemiBold)
+    upperFont = QFont("Helvetica", 30)
 
     def __init__(self, parent=None):
         QWidget.__init__(self, parent)
