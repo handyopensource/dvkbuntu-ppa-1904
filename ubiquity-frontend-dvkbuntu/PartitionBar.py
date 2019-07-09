@@ -153,8 +153,8 @@ class PartitionsBar(QtWidgets.QWidget):
         texts.append(part.name)
         texts.append(format_size(part.size))
 
-        nameFont = QtGui.QFont("arial", 30)
-        infoFont = QtGui.QFont("arial", 30)
+        nameFont = QtGui.QFont("arial", 10)
+        infoFont = QtGui.QFont("arial", 8)
 
         painter.setFont(nameFont)
         v_off = 0
