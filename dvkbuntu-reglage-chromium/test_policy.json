@@ -1,0 +1,18 @@
+{
+  "ShowHomeButton": true,
+  "HomepageLocation": "/opt/Accueil_local/index.html",
+  "NewTabPageLocation": "file:///opt/Accueil_local/index.html",
+  "HomepageIsNewTabPage": false,
+  "BookmarkBarEnabled": true,
+  "ExtensionInstallForcelist": [
+      "cjpalhdlnbpafiamejdnhcphjbkeiagm;https://clients2.google.com/service/update2/crx",
+      "eimadpbcbfnmbkopoojfekhnkhdbieeh",
+      "gcbommkclmclpchllfjekcdonpmejbdp",
+      "pkedcjkdefgpdelpbcmbmeomcjbeemfm",
+      "baebencgofnhbdimnijacljeoegbokeh",
+  ],
+  "EditBookmarksEnabled": true,
+  "DefaultSearchProviderEnabled": true,
+  "DefaultSearchProviderName": "Qwant",
+  "DefaultSearchProviderSearchURL": "https://www.qwant.com/?q={searchTerms}&t=web"
+}
