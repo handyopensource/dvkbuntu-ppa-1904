@@ -9,5 +9,5 @@ Homepage: https://www.dvkbuntu.org/
 Package: dvkbuntu-page-acceuil
 Architecture: any
 Depends: 
-Description: DVKBUNTU page d'acceuil du navigateur Firefox.
+Description: DVKBUNTU page d'acceuil du navigateur.
  <insert long description, indented with spaces>

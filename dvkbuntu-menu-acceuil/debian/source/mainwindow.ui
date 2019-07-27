@@ -69,7 +69,7 @@ background-image: url(:/images/DVKBuntu-etoiles-filantes.jpg);
 background-image: rgba(255, 255, 255, 0);
 }</string>
    </property>
-   <widget class="QPushButton" name="OuvrirFirefox">
+   <widget class="QPushButton" name="OuvrirChromium">
     <property name="geometry">
      <rect>
       <x>39</x>
@@ -93,11 +93,10 @@ background:rgb(0, 0, 0)
     </property>
     <property name="text">
      <string>Ouvrir 
-Firefox</string>
+Chromium</string>
     </property>
     <property name="icon">
-     <iconset theme="firefox">
-      <normaloff>.</normaloff>.</iconset>
+     <iconset theme="chromium-browser"/>
     </property>
     <property name="iconSize">
      <size>
@@ -109,7 +108,7 @@ Firefox</string>
      <bool>false</bool>
     </property>
     <property name="autoDefault">
-     <bool>false</bool>
+     <bool>true</bool>
     </property>
    </widget>
    <widget class="QPushButton" name="OuvrirKmag">

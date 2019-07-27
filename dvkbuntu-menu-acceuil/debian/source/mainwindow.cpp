@@ -34,10 +34,10 @@ void MainWindow::on_Forum_clicked()
     QDesktopServices::openUrl(QUrl("https://forum.dvkbuntu.org", QUrl::TolerantMode));
 }
 
-void MainWindow::on_OuvrirFirefox_clicked()
+void MainWindow::on_OuvrirChromium_clicked()
 {
     QProcess *myProcess2 = new QProcess(this);
-    myProcess2->start("/usr/bin/firefox");
+    myProcess2->start("/usr/bin/chromium-browser");
 }
 
 void MainWindow::on_OuvrirKmag_clicked()
