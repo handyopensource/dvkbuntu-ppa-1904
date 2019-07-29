@@ -1,0 +1,10 @@
+ #!/bin/bash
+
+LINE1='cat /etc/issue'
+LINE2='linuxlogo -g'
+FILE='/etc/bash.bashrc'
+
+[ ! -f "$FILE" ] && touch "$FILE"
+
+grep -qF -- "$LINE1" "$FILE" || echo "$LINE1" >> "$FILE"
+grep -qF -- "$LINE2" "$FILE" || echo "$LINE2" >> "$FILE"

@@ -1,0 +1,5 @@
+dvkbuntu-fetch (2.2-1) disco; urgency=medium
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Paul WOISARD <paulwoisard@gmail.com>  Sun, 21 Jul 2019 12:39:35 +0200
