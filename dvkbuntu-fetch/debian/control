@@ -9,6 +9,6 @@ Homepage: https://www.dvkbuntu.org/
 Package: dvkbuntu-fetch
 Replaces: base-files
 Architecture: any
-Depends: linuxlogo
+Depends: linuxlogo, neofetch
 Description: DVKBUNTU Affichage Logo dans la Konsole
  <insert long description, indented with spaces>
