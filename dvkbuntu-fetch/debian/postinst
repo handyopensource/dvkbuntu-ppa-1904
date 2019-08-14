@@ -1,10 +1,23 @@
  #!/bin/bash
 
-LINE1='cat /etc/issue'
-LINE2='linuxlogo -g'
+LINE1='neofetch --colors 1 2 3 4 5 6 --ascii_colors 1 2 3 4 6 7 --ascii /etc/neofetch/DVKBuntu'
+LINE2="alias neofetch='neofetch --colors 1 2 3 4 5 6 --ascii_colors 1 2 3 4 6 7 --ascii /etc/neofetch/DVKBuntu'"
+
 FILE='/etc/bash.bashrc'
 
 [ ! -f "$FILE" ] && touch "$FILE"
 
+touch /tmp/bash.tmp
+sed -e '/^cat/d' "$FILE" > /tmp/bash.tmp
+cp /tmp/bash.tmp "$FILE"
+
+touch /tmp/bash.tmp
+sed -e '/^linuxlogo/d' "$FILE" > /tmp/bash.tmp
+cp /tmp/bash.tmp "$FILE"
+
 grep -qF -- "$LINE1" "$FILE" || echo "$LINE1" >> "$FILE"
 grep -qF -- "$LINE2" "$FILE" || echo "$LINE2" >> "$FILE"
+
+FILE='/etc/os-release'
+
+sed -i 's/^PRETTY_NAME=.*/PRETTY_NAME=\"DVKBuntu 19.04"/g' "$FILE"
