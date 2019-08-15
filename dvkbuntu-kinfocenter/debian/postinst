@@ -141,11 +141,11 @@ Size=256
 ColorScheme=ZionReversed
 Name[fr_FR]=Breeze
 Name=Zion (Reversed)
-font=Noto Sans,12,-1,5,50,0,0,0,0,0,Regular
-menuFont=Noto Sans,12,-1,5,50,0,0,0,0,0,Regular
+font=Luciole,12,-1,5,50,0,0,0,0,0,Regular
+menuFont=Luciole,12,-1,5,50,0,0,0,0,0,Regular
 shadeSortColumn=true
-smallestReadableFont=Noto Sans,12,-1,5,50,0,0,0,0,0,Regular
-toolBarFont=Noto Sans,12,-1,5,50,0,0,0,0,0,Regular
+smallestReadableFont=Luciole,12,-1,5,50,0,0,0,0,0,Regular
+toolBarFont=Luciole,12,-1,5,50,0,0,0,0,0,Regular
 widgetStyle=Breeze
 forceFontDPI=168
  

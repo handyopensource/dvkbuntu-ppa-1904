@@ -8,6 +8,6 @@ Homepage: https://discord.gg/FtsNjjC
 
 Package: dvkbuntu-kinfocenter
 Architecture: any
-Depends: kinfocenter
+Depends: kinfocenter, dvkbuntu-luciole-font
 Description: info systeme dvkbuntu
  <insert long description, indented with spaces>
