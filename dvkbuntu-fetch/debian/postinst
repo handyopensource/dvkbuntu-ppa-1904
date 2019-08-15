@@ -20,6 +20,12 @@ grep -qF -- "$LINE1" "$FILE" || echo "$LINE1" >> "$FILE"
 grep -qF -- "$LINE2" "$FILE" || echo "$LINE2" >> "$FILE"
 grep -qF -- "$LINE3" "$FILE" || echo "$LINE3" >> "$FILE"
 
-FILE='/etc/os-release'
+FILEOS='/etc/os-release'
 
-sed -i 's/^PRETTY_NAME=.*/PRETTY_NAME=\"DVKBuntu 19.04"/g' "$FILE"
+sed -i 's/^NAME=.*/NAME=\"DVKBuntu"/g' "$FILEOS"
+sed -i 's/^PRETTY_NAME=.*/PRETTY_NAME=\"DVKBuntu 19.04"/g' "$FILEOS"
+
+
+FILELSB='/etc/lsb-release'
+sed -i 's/^DISTRIB_ID=.*/DISTRIB_ID=DVKBuntu/g' "$FILELSB"
+sed -i 's/^DISTRIB_DESCRIPTION=.*/DISTRIB_DESCRIPTION=\"DVKBuntu 19.04"/g' "$FILELSB"
