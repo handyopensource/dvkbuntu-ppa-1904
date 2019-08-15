@@ -2,6 +2,7 @@
 
 LINE1='neofetch --colors 1 2 3 4 5 6 --ascii_colors 1 2 3 4 6 7 --ascii /etc/neofetch/DVKBuntu'
 LINE2="alias neofetch='neofetch --colors 1 2 3 4 5 6 --ascii_colors 1 2 3 4 6 7 --ascii /etc/neofetch/DVKBuntu'"
+LINE3="alias screenfetch='screenfetch -a /etc/screenfetch/DVKscreenfetch'"
 
 FILE='/etc/bash.bashrc'
 
@@ -17,6 +18,7 @@ cp /tmp/bash.tmp "$FILE"
 
 grep -qF -- "$LINE1" "$FILE" || echo "$LINE1" >> "$FILE"
 grep -qF -- "$LINE2" "$FILE" || echo "$LINE2" >> "$FILE"
+grep -qF -- "$LINE3" "$FILE" || echo "$LINE3" >> "$FILE"
 
 FILE='/etc/os-release'
 
