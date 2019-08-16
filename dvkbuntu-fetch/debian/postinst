@@ -25,6 +25,9 @@ FILEOS='/etc/os-release'
 sed -i 's/^NAME=.*/NAME=\"DVKBuntu"/g' "$FILEOS"
 sed -i 's/^PRETTY_NAME=.*/PRETTY_NAME=\"DVKBuntu 19.04"/g' "$FILEOS"
 
+FILELIBOS='/usr/lib/os-release'
+sed -i 's/^NAME=.*/NAME=\"DVKBuntu"/g' "$FILELIBOS"
+sed -i 's/^PRETTY_NAME=.*/PRETTY_NAME=\"DVKBuntu 19.04"/g' "$FILELIBOS"
 
 FILELSB='/etc/lsb-release'
 sed -i 's/^DISTRIB_ID=.*/DISTRIB_ID=DVKBuntu/g' "$FILELSB"
