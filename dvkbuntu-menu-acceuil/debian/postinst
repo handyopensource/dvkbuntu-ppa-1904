@@ -66,3 +66,5 @@ X-DBUS-StartupType=
 X-KDE-SubstituteUID=false
 X-KDE-Username=
 FIN
+
+chmod 777 /opt/dvkbuntu-menu-acceuil/ScaleFactor.sh
