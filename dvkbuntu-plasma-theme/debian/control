@@ -8,6 +8,6 @@ Homepage: https://discord.gg/FtsNjjC
 
 Package: dvkbuntu-plasma-theme
 Architecture: any
-Depends: kubuntu-desktop
+Depends: kubuntu-desktop, dvkbuntu-menu-acceuil
 Description: DVKBUNTU Plasma theme
  <insert long description, indented with spaces>

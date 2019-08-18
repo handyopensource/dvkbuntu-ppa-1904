@@ -32,6 +32,12 @@ kickoff.currentConfigGroup = ["Shortcuts"]
 kickoff.writeConfig("global", "Alt+F1")
 
 //panel.addWidget("org.kde.plasma.showActivityManager")
+
+var quicklaunch = panel.addWidget("org.kde.plasma.quicklaunch");
+var qlurls = [ "file:///usr/share/applications/DVKBuntuMenuAcceuil.desktop" ];
+quicklaunch.currentConfigGroup = ["General"];
+quicklaunch.writeConfig("launcherUrls", qlurls);
+
 panel.addWidget("org.kde.plasma.pager")
 panel.addWidget("org.kde.plasma.taskmanager")
 

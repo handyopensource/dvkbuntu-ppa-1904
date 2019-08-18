@@ -138,10 +138,6 @@ Speedbar Width=148
 View Style=Simple
 listViewIconSize=0
 
-[KScreen]
-ScaleFactor=1.5
-ScreenScaleFactors=DP-1-1=1.5;HDMI-1-1=1.5;HDMI-1-2=1.5;DP-1-2=1.5;DVI-D-1=1.5;HDMI-3=1.5;DP-3=1.5;
-
 [WM]
 activeBackground=0,49,110
 activeBlend=0,16,29
