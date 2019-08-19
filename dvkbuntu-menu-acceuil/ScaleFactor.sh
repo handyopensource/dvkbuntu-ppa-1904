@@ -1,71 +1,29 @@
 #!/bin/sh
 
-if [ $1 -eq 1 ]
-then
-    kcmfontscale="96"
-elif [ $1 = "1.1" ]
-then
-    kcmfontscale="106"
-elif [ $1 = "1.2" ]
-then
-    kcmfontscale="115"
-elif [ $1 = "1.3" ]
-then
-    kcmfontscale="125"
-elif [ $1 = "1.4" ]
-then
-    kcmfontscale="134"
-elif [ $1 = "1.5" ]
-then
-    kcmfontscale="144"
-elif [ $1 = "1.6" ]
-then
-    kcmfontscale="154"
-elif [ $1 = "1.7" ]
-then
-    kcmfontscale="163"
-elif [ $1 = "1.8" ]
-then
-    kcmfontscale="173"
-elif [ $1 = "1.9" ]
-then
-    kcmfontscale="182"
-elif [ $1 -eq 2 ]
-then
-    kcmfontscale="192"
-elif [ $1 = "2.1" ]
-then
-    kcmfontscale="202"
-elif [ $1 = "2.2" ]
-then
-    kcmfontscale="211"
-elif [ $1 = "2.3" ]
-then
-    kcmfontscale="221"
-elif [ $1 = "2.4" ]
-then
-    kcmfontscale="230"
-elif [ $1 = "2.5" ]
-then
-    kcmfontscale="240"
-elif [ $1 = "2.6" ]
-then
-    kcmfontscale="250"
-elif [ $1 = "2.7" ]
-then
-    kcmfontscale="259"
-elif [ $1 = "2.8" ]
-then
-    kcmfontscale="269"
-elif [ $1 = "2.9"chorm ]
-then
-    kcmfontscale="278"
-elif [ $1 -eq 3 ]
-then
-    kcmfontscale="288"
-else
-    kcmfontscale="96"
-fi
+case $1 in
+    "1") kcmfontscale="96";;
+    "1.1") kcmfontscale="106";;
+    "1.2") kcmfontscale="115";;
+    "1.3") kcmfontscale="125";;
+    "1.4") kcmfontscale="134";;
+    "1.5") kcmfontscale="144";;
+    "1.6") kcmfontscale="154";;
+    "1.7") kcmfontscale="163";;
+    "1.8") kcmfontscale="173";;
+    "1.9") kcmfontscale="182";;
+    "2") kcmfontscale="192";;
+    "2.1") kcmfontscale="202";;
+    "2.2") kcmfontscale="211";;
+    "2.3") kcmfontscale="221";;
+    "2.4") kcmfontscale="230";;
+    "2.5") kcmfontscale="240";;
+    "2.6") kcmfontscale="250";;
+    "2.7") kcmfontscale="259";;
+    "2.8") kcmfontscale="269";;
+    "2.9") kcmfontscale="278";;
+    "3") kcmfontscale="288";;
+    *) kcmfontscale="96";;
+esac
 
 my_file="$HOME/.config/kdeglobals"
 
