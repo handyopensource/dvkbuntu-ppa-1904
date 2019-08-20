@@ -109,11 +109,11 @@ ColorScheme=DVKBuntu
 Name=DVKBuntu
 shadeSortColumn=true
 fixed=Hack,11,-1,5,50,0,0,0,0,0,Regular
-font=Noto Sans,12,-1,5,50,0,0,0,0,0,Regular
-menuFont=Noto Sans,12,-1,5,50,0,0,0,0,0,Regular
+font=Luciole,12,-1,5,50,0,0,0,0,0,Regular
+menuFont=Luciole,12,-1,5,50,0,0,0,0,0,Regular
 shadeSortColumn=true
-smallestReadableFont=Noto Sans,12,-1,5,50,0,0,0,0,0,Regular
-toolBarFont=Noto Sans,12,-1,5,50,0,0,0,0,0,Regular
+smallestReadableFont=Luciole,12,-1,5,50,0,0,0,0,0,Regular
+toolBarFont=Luciole,12,-1,5,50,0,0,0,0,0,Regular
 widgetStyle=Breeze
 
 [KDE]
@@ -141,7 +141,7 @@ listViewIconSize=0
 [WM]
 activeBackground=0,49,110
 activeBlend=0,16,29
-activeFont=Noto Sans,12,-1,5,50,0,0,0,0,0,Regular
+activeFont=Luciole,12,-1,5,50,0,0,0,0,0,Regular
 activeForeground=255,255,255
 inactiveBackground=64,64,64
 inactiveBlend=0,16,29

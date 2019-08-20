@@ -7,10 +7,10 @@ cat << FIN > "/usr/share/kubuntu-default-settings/dot-gtkrc-2.0-kde4"
 include "/usr/share/themes/Breeze-Dark/gtk-2.0/gtkrc"
 style "user-font" 
 {
-	font_name="Noto Sans Regular"
+	font_name="Luciole Regular"
 }
 widget_class "*" style "user-font"
-gtk-font-name="Noto Sans Regular 12"
+gtk-font-name="Luciole Regular 12"
 gtk-theme-name="Breeze-Dark"
 gtk-icon-theme-name="breeze"
 gtk-fallback-icon-theme="Adwaita"
@@ -200,7 +200,7 @@ ScreenScaleFactors=DP-1-1=1.8;HDMI-1-1=1.8;HDMI-1-2=1.8;DP-1-2=1.8;DVI-D-1=1.8;H
 [WM]
 activeBackground=0,49,110
 activeBlend=0,16,29
-activeFont=Noto Sans,12,-1,5,50,0,0,0,0,0,Regular
+activeFont=Luciole,12,-1,5,50,0,0,0,0,0,Regular
 activeForeground=255,255,255
 inactiveBackground=64,64,64
 inactiveBlend=0,16,29
@@ -221,7 +221,7 @@ gtk-application-prefer-dark-theme=true
 gtk-button-images=0
 gtk-cursor-theme-name=breeze_cursors
 gtk-fallback-icon-theme=Adwaita
-gtk-font-name=Noto Sans Regular 12
+gtk-font-name=Luciole Regular 12
 gtk-icon-theme-name=breeze
 gtk-menu-images=0
 gtk-primary-button-warps-slider=0
